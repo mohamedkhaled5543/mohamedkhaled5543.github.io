@@ -4,7 +4,7 @@ A responsive, dependency-free portfolio focused on Generative AI, RAG, AI agents
 
 ## Stack and hosting
 
-Plain HTML, CSS and JavaScript. GitHub Pages serves the root of the `main` branch. No build process, API keys, paid APIs or backend are needed. Google Fonts is the only optional third-party request; local system fonts are fallbacks.
+Plain HTML, CSS and JavaScript. GitHub Pages serves the root of the `main` branch. No build process, API keys, paid APIs or backend are needed. Google Fonts supplies optional web fonts; local system fonts are fallbacks. The sharing artwork is hosted on GitHub.
 
 ## Updating content
 
@@ -27,7 +27,7 @@ Run `python3 -m http.server 8000` from this folder, then visit `http://localhost
 
 ## Content boundaries
 
-Project descriptions are based on the owner's GitHub READMEs and supplied professional information. EduPilot AI is explicitly described as an early-stage graduation project, not a completed platform. Hotel operations is deterministic automation, not an AI payment system. No invented client results or professional metrics are included.
+Project descriptions are based on the owner's GitHub READMEs and supplied professional information. Only completed projects are shown. Hotel operations is deterministic automation, not an AI payment system. No invented client results or professional metrics are included.
 
 ## Sharing artwork
 
