@@ -9,7 +9,7 @@ Plain HTML, CSS and JavaScript. GitHub Pages serves the root of the `main` branc
 ## Updating content
 
 - Edit `index.html` to update project descriptions, skills, experience, education and contact links.
-- Each project is an `<article>` with a `data-category` of `genai`, `automation`, or `ml`.
+- Each project is an `<article>` with a `data-category` of `genai`, `automation`, `ml` or `backend`.
 - The CSS is in the `<style>` block near the top of `index.html`.
 - JavaScript is in the `<script>` block at the end of `index.html`.
 - Commit changes to `main`; GitHub Pages republishes automatically.
