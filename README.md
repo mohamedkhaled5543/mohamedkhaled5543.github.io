@@ -13,7 +13,7 @@ Plain HTML, CSS and JavaScript. GitHub Pages serves the root of the `main` branc
 - The CSS is in the `<style>` block near the top of `index.html`.
 - JavaScript is in the `<script>` block at the end of `index.html`.
 - Commit changes to `main`; GitHub Pages republishes automatically.
-- Replace the PNG referenced in the `og:image` metadata to change the social sharing image. Keep its 1200 x 630 ratio.
+- Upload a 1200 x 630 sharing image, then update the `og:image` URL in `index.html`.
 
 ## Features
 
@@ -28,3 +28,7 @@ Run `python3 -m http.server 8000` from this folder, then visit `http://localhost
 ## Content boundaries
 
 Project descriptions are based on the owner's GitHub READMEs and supplied professional information. EduPilot AI is explicitly described as an early-stage graduation project, not a completed platform. Hotel operations is deterministic automation, not an AI payment system. No invented client results or professional metrics are included.
+
+## Sharing artwork
+
+![Portfolio sharing artwork](https://github.com/user-attachments/assets/86608f7a-4197-4ceb-aa62-0f9fcebed052)
